@@ -39,7 +39,7 @@ More topics will be added as the learning journey progresses.
 # 📁 Repository Structure
 
 ```text
-data-structures-and-algorithms/
+DSA
 │
 ├── Lists/
 ├── Recursion/
