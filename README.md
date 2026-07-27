@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+
 # 📚 Data Structures & Algorithms in Python
 
 ## 📌 Overview
